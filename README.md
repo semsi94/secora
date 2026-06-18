@@ -1,5 +1,4 @@
 # Secora
-# Secora
 
 Enterprise cybersecurity infrastructure project developed as a diploma project.
 
